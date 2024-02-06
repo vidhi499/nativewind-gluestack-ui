@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/vidhikataria/Documents/Projects/gluestack-ui/nativewind-test/logs/.00951570b900d0131fe62130fb97492514805a61-audit.json",
+    "files": [
+        {
+            "date": 1707202015893,
+            "name": "/Users/vidhikataria/Documents/Projects/gluestack-ui/nativewind-test/logs/error-2024-02-06.log",
+            "hash": "03e2e333f5642643ef048eba1b0bb742"
+        }
+    ]
+}
